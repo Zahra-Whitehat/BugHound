@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
@@ -8,3 +9,6 @@ reports/
 .mypy_cache/
 build/
 dist/
+=======
+bughound-1.19.0.zip
+>>>>>>> a497060664e456ba978ca6fa1dac830bc87591c5
