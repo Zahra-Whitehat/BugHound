@@ -1,2 +1,0 @@
-[console_scripts]
-bughound = bughound.cli:main
